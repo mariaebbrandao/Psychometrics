@@ -1,4 +1,4 @@
-*Maria Brandao Sze - HW 1 Warm Up
+*Maria Brandao Sze -  Warm Up
 
 * Encoding: UTF-8.
 
