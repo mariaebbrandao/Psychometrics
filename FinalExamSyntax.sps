@@ -1,5 +1,4 @@
 * Encoding: UTF-8.
-*Aisha Aliyu, Allison Kuschel, Eitan (Abraham) Budow, Sangay Sherpa
 
 *********************1)Examine and interpret the demographic characteristics of the sample and the other measures.*********************
 
